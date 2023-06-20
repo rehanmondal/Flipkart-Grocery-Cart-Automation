@@ -15,6 +15,7 @@ url = "https://www.flipkart.com/search?q=sugar%201%20kg&otracker=search&otracker
 item_list = []
 print("\n============================ FLIPKART   GROCERY   AUTOMATION ===============================")
 print("============================ Automation Started Successfully ===============================\n")
+start = time.time()
 try:
     f = open("D:\\SELENIUM\FLIPKART_GROCCERY\\items.txt","r")   # Set location accordingly where user's item list is present
     item_list = f.readlines()
@@ -108,5 +109,9 @@ except Exception as e:
     print(e)
     print("!!! Unable to show Total Cart due Amount")
 
-time.sleep(8)
+time.sleep(2)
+end = time.time()
+seconds = (end - start)
+minutes = seconds/60
 print("\n============================ Automation Completed Successfully ===============================\n")
+print("Total Time Taken to complete the order process : ",format(minutes,".2f"), "minutes")
