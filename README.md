@@ -1,5 +1,9 @@
 ## Flipkart Grocery Cart Automation <img src="https://github.com/rehanmondal/Flipkart-Grocery-Cart-Automation/assets/125151906/e5b3a590-558c-4df8-b423-1711cb999903" width="42px;" height="32px;">
-  
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" width="90px;" height="28px;">
+<img src="https://github.com/rehanmondal/rehanmondal/assets/125151906/43d5ce7b-c8b3-4707-8af0-e28b2281dd57" width="90px;" height="28px;">
+</p>  
+
 ## Tables Contains:
 - [Overview](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 - [Working Preview](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
