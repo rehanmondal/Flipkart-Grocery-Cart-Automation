@@ -11,7 +11,7 @@
 - [Log Report](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 
 ## Overview
-Automation is the use of technology to perform tasks with where human input is minimized. This includes enterprize applications such as business process automation, IT automation, network automation,automating integration between systems & industrial automation such as robotics and more. In this Flipkart Grocery Automation I have tried to minimize the effort of manual entry of products for search, quantity match and add to cart that element.
+Automation is the use of technology to perform tasks with where human input is minimized. This includes enterprize applications such as business process automation, IT automation, network automation,automating integration between systems & industrial automation such as robotics and more. In this Flipkart Grocery Automation I have tried to minimize the effort of manual entry of products for search, quantity match and add to cart that element.In one word it is basically controlling the Event Driven Programming with the help of selenium without human interactions.
 
 <p><img src="https://github.com/rehanmondal/Flipkart-Grocery-Cart-Automation/assets/125151906/01c977d5-5b87-48f7-b817-86f32e6e87fc" width="420" height="220"></p>
 
@@ -20,9 +20,9 @@ Automation is the use of technology to perform tasks with where human input is m
 
 ## Working Steps
     Human Steps :
-    Step 1 : Buyer needs to make a manual list of items (such as items.txt file)
-    Step 2 : Put that file in to the desired folder location and start the python main file.
- Other tasks are automatically done without any human interaction.  
+    step 1 : Buyer needs to make a manual list of items (such as items.txt file)
+    step 2 : Put that file in to the desired folder location and start the python main file.
+ Other tasks are automatically done without any human interactions.
  
     Automation Steps :
     step 1: It will add the saved pincode of delivery in the location box (In order to change it is also possible).
