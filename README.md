@@ -23,7 +23,14 @@ Automation is the use of technology to perform tasks with where human input is m
     Step 1 : Buyer needs to make a manual list of items (such as items.txt file)
     Step 2 : Put that file in to the desired folder location and start the python main file.
  Other tasks are automatically done without any human interaction.  
-    
+ 
+    Automation Steps :
+    step 1: It will add the saved pincode of delivery in the location box (In order to change it is also possible).
+    step 2: Next it will read one by one element form the provided item list and search for it.
+    step 3: It then matches customer required quiantity with website's available quantity.
+    Step 4: If quantity or same product found then add to cart else skip that product and search for next.
+    Step 5: Visit view cart and print the total amount.
+    Step 6: Finally click On Place order button where confidential Login Password will put through send_keys function(as similar as pincode input). 
 
 
 ## Log Report
