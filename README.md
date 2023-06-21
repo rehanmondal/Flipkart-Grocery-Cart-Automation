@@ -28,9 +28,9 @@ Automation is the use of technology to perform tasks with where human input is m
     step 1: It will add the saved pincode of delivery in the location box (In order to change it is also possible).
     step 2: Next it will read one by one element form the provided item list and search for it.
     step 3: It then matches customer required quiantity with website's available quantity.
-    Step 4: If quantity or same product found then add to cart else skip that product and search for next.
-    Step 5: Visit view cart and print the total amount.
-    Step 6: Finally click On Place order button where confidential Login Password will put through send_keys function(as similar as pincode input). 
+    step 4: If quantity or same product found then add to cart else skip that product and search for next.
+    step 5: Visit view cart and print the total amount.
+    step 6: Finally click On Place order button where confidential Login Password will put through send_keys function(as similar as pincode input). 
 
 
 ## Log Report
