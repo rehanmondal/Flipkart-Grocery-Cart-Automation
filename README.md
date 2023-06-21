@@ -12,6 +12,8 @@
 
 ## Overview
 
+Automation is the use of technology to perform tasks with where human input is minimized. This includes enterprize applications such as business process automation, IT automation, network automation,automating integration between systems & industrial automation such as robotics and more. In this Flipkart Grocery Automation I have tried to minimize the effort of manual entry of products for search, quantity match and add to cart that element.
+
 <p><img src="https://github.com/rehanmondal/Flipkart-Grocery-Cart-Automation/assets/125151906/01c977d5-5b87-48f7-b817-86f32e6e87fc" width="420" height="220"></p>
 
 ## Working Preview : 
