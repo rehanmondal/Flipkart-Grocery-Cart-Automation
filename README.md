@@ -34,7 +34,16 @@ Automation is the use of technology to perform tasks with where human input is m
 
 
 ## Log Report
-
+    DevTools listening on ws://127.0.0.1:58022/devtools/browser/0eebbf8b-4b0d-4fa7-8e6c-353d0ff9f6ce
+    
+    ============================ FLIPKART   GROCERY   AUTOMATION ===============================
+    ============================ Automation Started Successfully ===============================
+    
+    Items read successfully from text file
+    Home page loaded Succesfully
+    Pincode put Succesfully
+    Search box found and clear succesfully
+    Total number of products available in the list is 5
 
 <img src="https://github.com/rehanmondal/Flipkart-Grocery-Cart-Automation/assets/125151906/1a3cf59d-d3f1-479d-a8c0-9efeaffd9671" width="420" height="220">
 
