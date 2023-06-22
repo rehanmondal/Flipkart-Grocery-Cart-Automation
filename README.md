@@ -50,7 +50,6 @@ Automation is the use of technology to perform tasks with where human input is m
         Website Availabe     :  500
         1 no. product added to Cart Succesfully
     
-    
         2 no. product searched Succesfully
         Customer requrements :  4
         Website Availabe     :  4
@@ -60,8 +59,7 @@ Automation is the use of technology to perform tasks with where human input is m
         Customer requrements :  1
         Website Availabe     :  1
         3 no. product added to Cart Succesfully
-        
-        
+                
         4 no. product searched Succesfully
         Customer requrements :  2
         Website Availabe     :  5
@@ -72,6 +70,7 @@ Automation is the use of technology to perform tasks with where human input is m
         Website Availabe     :  500
         Quantity Not Available
         View Cart Clicked Successfully
+        
         Total Amount for the cart elements are : ₹1,257
         Place Order Clicked Successfully
 
