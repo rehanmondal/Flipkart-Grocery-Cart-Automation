@@ -56,6 +56,17 @@ Automation is the use of technology to perform tasks with where human input is m
         Website Availabe     :  4
         2 no. product added to Cart Succesfully
 
+        3 no. product searched Succesfully
+        Customer requrements :  1
+        Website Availabe     :  1
+        3 no. product added to Cart Succesfully
+        
+        
+        4 no. product searched Succesfully
+        Customer requrements :  2
+        Website Availabe     :  5
+        Quantity Not Available  
+
 <img src="https://github.com/rehanmondal/Flipkart-Grocery-Cart-Automation/assets/125151906/1a3cf59d-d3f1-479d-a8c0-9efeaffd9671" width="420" height="220">
 
 
