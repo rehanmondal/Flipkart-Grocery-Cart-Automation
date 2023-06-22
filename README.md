@@ -78,7 +78,8 @@ Automation is the use of technology to perform tasks with where human input is m
 
         Total Time Taken to complete the order process :  1.51 minutes
 
-<img src="https://github.com/rehanmondal/Flipkart-Grocery-Cart-Automation/assets/125151906/1a3cf59d-d3f1-479d-a8c0-9efeaffd9671" width="420" height="200">
+<img src="https://github.com/rehanmondal/Flipkart-Grocery-Cart-Automation/assets/125151906/d03f1bfc-2293-45a6-a33a-9964e3a307ad" width="420" height="220">
 
-
+                                                                                                            
+                                          
 
