@@ -67,6 +67,18 @@ Automation is the use of technology to perform tasks with where human input is m
         Website Availabe     :  5
         Quantity Not Available  
 
+        5 no. product searched Succesfully
+        Customer requrements :  1
+        Website Availabe     :  500
+        Quantity Not Available
+        View Cart Clicked Successfully
+        Total Amount for the cart elements are : ₹1,257
+        Place Order Clicked Successfully
+
+        ============================ Automation Completed Successfully ===============================
+
+Total Time Taken to complete the order process :  1.51 minutes
+
 <img src="https://github.com/rehanmondal/Flipkart-Grocery-Cart-Automation/assets/125151906/1a3cf59d-d3f1-479d-a8c0-9efeaffd9671" width="420" height="220">
 
 
