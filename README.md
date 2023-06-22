@@ -34,10 +34,10 @@ Automation is the use of technology to perform tasks with where human input is m
 
 
 ## Log Report
-    DevTools listening on ws://127.0.0.1:58022/devtools/browser/0eebbf8b-4b0d-4fa7-8e6c-353d0ff9f6ce
+        DevTools listening on ws://127.0.0.1:58022/devtools/browser/0eebbf8b-4b0d-4fa7-8e6c-353d0ff9f6ce
     
-    ============================ FLIPKART   GROCERY   AUTOMATION ===============================
-    ============================ Automation Started Successfully ===============================
+        ============================ FLIPKART   GROCERY   AUTOMATION ===============================
+        ============================ Automation Started Successfully ===============================
     
         Items read successfully from text file
         Home page loaded Succesfully
