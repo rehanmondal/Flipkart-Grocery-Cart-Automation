@@ -16,7 +16,7 @@ Automation is the use of technology to perform tasks with where human input is m
 <p><img src="https://github.com/rehanmondal/Flipkart-Grocery-Cart-Automation/assets/125151906/01c977d5-5b87-48f7-b817-86f32e6e87fc" width="420" height="220"></p>
 
 ## Working Preview : 
-<img src="https://github.com/rehanmondal/Flipkart-Grocery-Cart-Automation/assets/125151906/c92fcbf4-6d6f-421f-8e32-ddc82cc94038" width="650px;" height="350px;">
+<img src="https://github.com/rehanmondal/Flipkart-Grocery-Cart-Automation/assets/125151906/c92fcbf4-6d6f-421f-8e32-ddc82cc94038" width="650px;" height="365px;">
 
 ## Working Steps
     Human Steps :
